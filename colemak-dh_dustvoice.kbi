@@ -6075,7 +6075,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "SV_TOGGLE_AUTOMOUSE",
+      "USER18",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -6500,11 +6500,53 @@
   "combo_count": 50,
   "combos": [
     [
-      "KC_N",
-      "KC_E",
       "KC_NO",
       "KC_NO",
-      "LSFT(KC_9)"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -6556,13 +6598,6 @@
       "KC_NO"
     ],
     [
-      "KC_E",
-      "KC_I",
-      "KC_NO",
-      "KC_NO",
-      "LSFT(KC_0)"
-    ],
-    [
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -6582,41 +6617,6 @@
       "KC_NO",
       "KC_NO",
       "KC_NO"
-    ],
-    [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO"
-    ],
-    [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO"
-    ],
-    [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO"
-    ],
-    [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO"
-    ],
-    [
-      "KC_H",
-      "KC_COMMA",
-      "KC_NO",
-      "KC_NO",
-      "KC_LBRACKET"
     ],
     [
       "KC_NO",
@@ -6668,11 +6668,11 @@
       "KC_NO"
     ],
     [
-      "KC_COMMA",
-      "KC_DOT",
       "KC_NO",
       "KC_NO",
-      "KC_RBRACKET"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -6852,7 +6852,7 @@
   ],
   "settings": {
     "1": 0,
-    "2": 50,
+    "2": "50",
     "3": 0,
     "4": 175,
     "5": 5,
