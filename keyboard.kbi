@@ -5214,7 +5214,7 @@
       "KC_G",
       "KC_T",
       "KC_P",
-      "KC_DQUO",
+      "LSFT(KC_QUOTE)",
       "QK_BASIC_MAX",
       "KC_C",
       "KC_B",
