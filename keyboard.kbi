@@ -3492,7 +3492,7 @@
       "KC_LALT",
       "OSM(MOD_LSFT)",
       "KC_SPACE",
-      "LT3(KC_REDO)",
+      "QK_REPEAT_KEY",
       "MO(14)",
       "KC_D",
       "KC_G",
@@ -6284,4 +6284,3 @@
       "15": "Mouse"
     }
   }
-}
